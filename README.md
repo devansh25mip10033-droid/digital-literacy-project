@@ -18,8 +18,8 @@ As a **#StudentDigitalAmbassador**, I created resources to help students become 
 ---
 
 ## 🧑‍🎓 About Me  
-- 👤 **Name:** Devansh Rawat  
-- 🆔 **Registration No.:** *YOUR_REG_NO*  
+- 👤 **Name:** Devansh Singh Rawat  
+- 🆔 **Registration No.: 25MIP10033
 - 🎓 **Branch:** Integrated M.Tech (Computational & Data Science)  
 - 📅 **Year:** 1st Year  
 
@@ -30,13 +30,13 @@ As a **#StudentDigitalAmbassador**, I created resources to help students become 
 📁 digital-literacy-project  
 │  
 ├── 📄 README.md  
-├── 📁 report/  
+├── 📁 report  
 │   └── Project_Report.pdf  
-├── 📁 task-1-presentation/  
-├── 📁 task-2-portfolio/  
-├── 📁 task-3-platforms/  
-├── 📁 task-4-email-etiquette/  
-└── 📁 task-5-cybercrime/  
+├── 📁 task-1-presentation  
+├── 📁 task-2-portfolio  
+├── 📁 task-3-platforms  
+├── 📁 task-4-email-etiquette  
+└── 📁 task-5-cybercrime 
 
 ---
 
