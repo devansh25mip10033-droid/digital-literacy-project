@@ -62,7 +62,7 @@ As a **#StudentDigitalAmbassador**, I created resources to help students become 
 👨‍💻 Practiced coding on platforms like #HackerRank  
 📊 Created a **#GoogleForms Quiz**  
 
-🔗 **Quiz Link:** https://forms.gle/sbRPeKZMQyZvSTfQA
+🔗 **Quiz Link:** (https://forms.gle/sbRPeKZMQyZvSTfQA)
 
 ---
 
@@ -84,10 +84,10 @@ As a **#StudentDigitalAmbassador**, I created resources to help students become 
 
 ## 🔗 Important Links  
 
-- 🌍 **GitHub Repo:** YOUR_REPO_LINK  
-- 📊 **Google Form Quiz:**(https://forms.gle/sbRPeKZMQyZvSTfQA) 
-- 💼 **LinkedIn:** YOUR_LINKEDIN_LINK  
-- 💻 **GitHub Profile:** YOUR_GITHUB_PROFILE  
+- 🌍 **GitHub Repo:** (https://github.com/devansh25mip10033-droid/digital-literacy-project.git)
+- 📊 **Google Form Quiz:** (https://forms.gle/sbRPeKZMQyZvSTfQA) 
+- 💼 **LinkedIn:** (www.linkedin.com/in/devansh-singh-rawat-873a893ba)
+- 💻 **GitHub Profile:**(https://github.com/devansh25mip10033)
 
 ---
 
