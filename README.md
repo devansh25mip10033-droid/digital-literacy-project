@@ -87,7 +87,7 @@ As a **#StudentDigitalAmbassador**, I created resources to help students become 
 - 🌍 **GitHub Repo:** (https://github.com/devansh25mip10033-droid/digital-literacy-project.git)
 - 📊 **Google Form Quiz:** (https://forms.gle/sbRPeKZMQyZvSTfQA) 
 - 💼 **LinkedIn:** (www.linkedin.com/in/devansh-singh-rawat-873a893ba)
-- 💻 **GitHub Profile:**(https://github.com/devansh25mip10033)
+- 💻 **GitHub Profile:**(https://github.com/devansh25mip10033-droid)
 
 ---
 
