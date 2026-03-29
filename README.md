@@ -62,7 +62,7 @@ As a **#StudentDigitalAmbassador**, I created resources to help students become 
 👨‍💻 Practiced coding on platforms like #HackerRank  
 📊 Created a **#GoogleForms Quiz**  
 
-🔗 **Quiz Link:** YOUR_GOOGLE_FORM_LINK  
+🔗 **Quiz Link:** https://forms.gle/sbRPeKZMQyZvSTfQA
 
 ---
 
@@ -85,7 +85,7 @@ As a **#StudentDigitalAmbassador**, I created resources to help students become 
 ## 🔗 Important Links  
 
 - 🌍 **GitHub Repo:** YOUR_REPO_LINK  
-- 📊 **Google Form Quiz:** YOUR_GOOGLE_FORM_LINK  
+- 📊 **Google Form Quiz:**(https://forms.gle/sbRPeKZMQyZvSTfQA) 
 - 💼 **LinkedIn:** YOUR_LINKEDIN_LINK  
 - 💻 **GitHub Profile:** YOUR_GITHUB_PROFILE  
 
